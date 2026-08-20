@@ -1,0 +1,16 @@
+# Core (needed to reproduce every number in the paper)
+numpy>=1.24
+pandas>=2.0
+torch>=2.0
+matplotlib>=3.7
+
+# Handshake measurement (Stage 1 only)
+kyber-py>=1.0        # ML-KEM (FIPS 203)
+dilithium-py>=1.0    # ML-DSA (FIPS 204)
+cryptography>=41.0   # classical X25519 / ECDSA
+
+# Optional: only for the exploratory online-RL code in rl_inference.py,
+# which is NOT used by any paper result.
+# gymnasium>=0.29
+# stable-baselines3>=2.0
+# scikit-learn>=1.3

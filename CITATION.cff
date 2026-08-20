@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or the accompanying dataset, please cite the paper below."
+title: "Intelligent Cryptographic Agility Framework for Adaptive Post-Quantum TLS Policy Selection"
+authors:
+  - family-names: Azad
+    given-names: "Md Shawmoon"
+    affiliation: "Cleveland State University"
+  - family-names: Kumar
+    given-names: "Sathish A. P."
+    affiliation: "Cleveland State University"
+preferred-citation:
+  type: conference-paper
+  title: "An Intelligent Cryptographic Agility Framework for Adaptive Post-Quantum TLS Policy Selection Using Offline Reinforcement Learning"
+  authors:
+    - family-names: Azad
+      given-names: "Md Shawmoon"
+    - family-names: Kumar
+      given-names: "Sathish A. P."
+  collection-title: "IEEE Global Communications Conference (GLOBECOM)"
+  year: 2026
