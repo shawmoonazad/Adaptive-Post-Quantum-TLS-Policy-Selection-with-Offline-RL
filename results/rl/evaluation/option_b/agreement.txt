@@ -1,0 +1,11 @@
+BC vs IQL: 100.00%
+BC vs BCQ: 100.00%
+BC vs AWAC: 100.00%
+IQL vs BCQ: 100.00%
+IQL vs AWAC: 100.00%
+BCQ vs AWAC: 100.00%
+ALL FOUR identical on 100.00% of 2000 test samples
+CQL vs the consensus: 98.15%
+CQL diverges on 37 samples
+  consensus picks there: [('CLASSICAL_ONLY_L1', 16), ('PQC_ONLY_L5', 8), ('CLASSICAL_ONLY_L5', 3), ('CLASSICAL_ONLY_L3', 3), ('PQC_ONLY_L1', 3), ('REQUIRE_HYBRID_L5', 2), ('ALLOW_FALLBACK_L3', 1), ('REQUIRE_HYBRID_L1', 1)]
+  CQL picks there:       [('ALLOW_FALLBACK_L1', 12), ('PQC_ONLY_L3', 10), ('CLASSICAL_ONLY_L3', 7), ('REQUIRE_HYBRID_L3', 5), ('CLASSICAL_ONLY_L5', 2), ('ALLOW_FALLBACK_L3', 1)]
